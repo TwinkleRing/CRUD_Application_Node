@@ -6,7 +6,6 @@
   - run node server<br>
     just run server with </br>
        > npm start
-  </br>
   - connect with web browser<br>
    This project using prot 3000 on node server.<br>
    in yout brower vou can go index page with <br>
