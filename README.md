@@ -27,7 +27,7 @@
 ### Main
 ![main](https://user-images.githubusercontent.com/43642411/111018831-a9e1a000-83fe-11eb-9d86-c9b4f0030095.PNG)
 
-### Add User 
+### Create New User 
 ![add_user](https://user-images.githubusercontent.com/43642411/111018834-af3eea80-83fe-11eb-9917-3f779a5873e8.PNG)
 
 ### Update User
